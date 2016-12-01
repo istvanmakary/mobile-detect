@@ -1,5 +1,5 @@
 {
-  "name": "detect-mobile",
+  "name": "mobile-detect",
   "version": "0.0.1",
   "description": "Simple regexp to test mobile",
   "main": "index.js",
